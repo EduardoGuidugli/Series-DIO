@@ -1,0 +1,1 @@
+Inicio ao desenvolvimento de uma aplicação de séries em .NET
